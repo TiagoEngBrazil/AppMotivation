@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Motivation</string>
+    <string name="new_phrase">>Nouvelle phrase</string>
+    <string name="center_phrase">Utilisateur</string>
+    <string name="your_name">Quel est votre nom?</string>
+    <string name="save">Sauver</string>
+    <string name="start">Commencer</string>
+    <string name="ol_kotlin">Bonjour</string>
+
+    <string name="validation_mandatory_name">Entrez votre nom.</string>
+</resources>
